@@ -25,3 +25,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## GitHub Repository
 
 https://github.com/UserHAL-9000/social_media_backend
+
+## Video Walkthrough
+
+https://drive.google.com/file/d/1r8fTJE0CHy3KHbyzZC_hytp97XkVlSVp/view
+
